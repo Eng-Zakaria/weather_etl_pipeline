@@ -86,12 +86,6 @@ run_pipeline(days=10, location={
 - **Transform**: `pandas`
 - **Load**: `sqlalchemy`
 
-## Testing
-
-```bash
-pytest tests/
-```
-
 ## Contributing
 
 1. Fork the repository
@@ -99,7 +93,3 @@ pytest tests/
 3. Commit changes (`git commit -m 'Add new feature'`)
 4. Push to branch (`git push origin feature/improvement`)
 5. Open a Pull Request
-
-## License
-
-MIT License - See LICENSE(LICENSE) for details
